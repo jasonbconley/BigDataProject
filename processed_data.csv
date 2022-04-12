@@ -1,4 +1,4 @@
-,county_name,county_fips,case_count,average_income
+id,county_name,county_fips,case_count,average_income
 0,FULTON,39051.0,10252,62645.25
 1,PERRY,39127.0,8227,46837.666666666664
 2,LORAIN,39093.0,66176,60454.666666666664
